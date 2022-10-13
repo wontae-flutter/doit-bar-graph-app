@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:bar_graph_app/screens/screen_bar_graph.dart';
-import "package:bar_graph_app/animations/saturnLoading.dart";
 import "dart:async";
 import "dart:math";
 
